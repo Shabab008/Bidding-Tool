@@ -1,0 +1,10 @@
+C:\Projects\InterconnectorBids\InterconnectorBids\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\InterconnectorBids.exe
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\InterconnectorBids.pdb
+C:\Projects\InterconnectorBids\InterconnectorBids\obj\Debug\InterconnectorBids.exe
+C:\Projects\InterconnectorBids\InterconnectorBids\obj\Debug\InterconnectorBids.pdb
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\office.dll
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Projects\InterconnectorBids\InterconnectorBids\bin\Debug\Microsoft.Office.Interop.Outlook.xml
